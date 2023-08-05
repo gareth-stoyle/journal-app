@@ -2,6 +2,9 @@
 A Customtkinter Journal application with login system and journal entry usingsqlite3 database.
 
 # Demo
+<img width="401" alt="demo1" src="https://github.com/gareth-stoyle/journal-app/assets/115641892/bc198f3e-f1ab-4acb-8cb6-6883f555ffbc">
+
+<img width="700" alt="demo2" src="https://github.com/gareth-stoyle/journal-app/assets/115641892/c3a306a5-25b1-497d-955e-7f9164b07f36">
 
 
 # What I Learned
